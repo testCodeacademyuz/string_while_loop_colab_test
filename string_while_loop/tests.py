@@ -1,5 +1,5 @@
-from package_name import CheckSolution
-from package_name import test_cases
+from string_while_loop import CheckSolution
+from string_while_loop import test_cases
 
 class TestCaseRunner(CheckSolution):
     def __init__(self, task_name, homework_name, task):
@@ -76,4 +76,13 @@ task = [
     "taskNine",
     "taskTen",]
 
-q1 = TestCaseRunner(task_name="task01", homework_name="SlicingHomework", task=task[0])
+q1 = TestCaseRunner(task_name="strWhile01", homework_name="string_while_loop", task=task[0])
+q2 = TestCaseRunner(task_name="strWhile02", homework_name="string_while_loop", task=task[1])
+q3 = TestCaseRunner(task_name="strWhile03", homework_name="string_while_loop", task=task[2])
+q4 = TestCaseRunner(task_name="strWhile04", homework_name="string_while_loop", task=task[3])
+q5 = TestCaseRunner(task_name="strWhile05", homework_name="string_while_loop", task=task[4])
+q6 = TestCaseRunner(task_name="strWhile06", homework_name="string_while_loop", task=task[5])
+q7 = TestCaseRunner(task_name="strWhile07", homework_name="string_while_loop", task=task[6])
+q8 = TestCaseRunner(task_name="strWhile08", homework_name="string_while_loop", task=task[7])
+q9 = TestCaseRunner(task_name="strWhile09", homework_name="string_while_loop", task=task[8])
+q10 = TestCaseRunner(task_name="strWhile10", homework_name="string_while_loop", task=task[9])

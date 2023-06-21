@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-   name='package_name',
+   name='string_while_loop',
    version='0.1.0',
-   packages=['package_name'],
-   description='This is package_name Test',
+   packages=['string_while_loop'],
+   description='This is string_while_loop Test',
    install_requires=[
        "requests",
    ]

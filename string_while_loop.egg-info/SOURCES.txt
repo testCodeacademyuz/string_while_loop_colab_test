@@ -1,0 +1,11 @@
+README.md
+setup.py
+string_while_loop/__init__.py
+string_while_loop/checker.py
+string_while_loop/test_cases.py
+string_while_loop/tests.py
+string_while_loop.egg-info/PKG-INFO
+string_while_loop.egg-info/SOURCES.txt
+string_while_loop.egg-info/dependency_links.txt
+string_while_loop.egg-info/requires.txt
+string_while_loop.egg-info/top_level.txt
